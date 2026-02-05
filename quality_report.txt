@@ -1,0 +1,15 @@
+generated_at: 2026-02-05T00:00:00Z
+
+total_records: 1
+valid_count: 1
+invalid_count: 0
+valid_percent: 100.0
+
+field_completeness:
+  title: { present: 1, total: 1, percent: 100.0 }
+  url: { present: 1, total: 1, percent: 100.0 }
+  content: { present: 1, total: 1, percent: 100.0 }
+
+common_validation_failures: {}
+
+notes: Summary generated from validation_report.json (single-record dataset).
