@@ -1,4 +1,4 @@
-# BBC Future scraping — data cleaning & validation
+# BBC Web scraping — Data cleaning & Data validation
 
 This repository contains a small pipeline to scrape a BBC Future article, clean the scraped data, validate it, and produce a simple quality report.
 
